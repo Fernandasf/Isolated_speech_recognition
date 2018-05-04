@@ -1,2 +1,2 @@
 # Isolated_speech_recognition
-This code presents an isolated speech recognition system baseaded in the MFCC and HMM.
+This code presents an isolated word recognition system based in MFCC and HMM.
